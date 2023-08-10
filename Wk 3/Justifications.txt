@@ -1,0 +1,34 @@
+int
+Advantages
+- Accept only integers and would prevent errors/situations where people accidentally
+key in an alphabet
+
+
+Disadvantages
+- It could be confusing or disorientating at times as all buyerids have integers only
+that it'd be easy to lose track of the exact buyerid.
+
+
+
+string
+Advantages
+- Depending on the decision,we could have alphabets with our ids (JL9493) which will
+make each buyerID unique and easy to distinguish
+
+Disadvantages
+- Since we're using numbers for IDs,it would mess up the bids if someone were to accidentally
+put an alphabet along with the numbers as input
+
+
+Overall,i would choose numeric integer as we only want numbers and will put an error if
+non numbers are entered.
+
+
+
+
+We use givenName and familyName instead of firstName and lastName in order to cater
+to people.Some people might have family names as their first given as the last.So it
+would be best to be specific as possible in what to ask for.
+
+
+

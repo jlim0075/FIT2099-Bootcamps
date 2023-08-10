@@ -1,0 +1,17 @@
+
+The method would run in the AutoShowroom as it feels logically right since an AutoShowroom
+should be the one having access to display all buyers
+
+
+public void allBuyers()
+
+
+We could have the method go through the existing functions and print all of the
+possible buyers.
+
+We can go through the car Arraylist,loop through it and the bids Array.From there
+the method will put each unique buyer in a list to print for later.As it goes
+through each bid and buyer,it will also check it's list to prevent duplicates.
+
+After it loops through the car Arraylist,it will then loop through it's made
+list and print each buyer out in a fixed string format to display the buyers 

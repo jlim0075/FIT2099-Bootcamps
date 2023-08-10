@@ -1,0 +1,17 @@
+Constructor
+Pros
+-Used for basic things easily (creating an object and setting up basic attributes)
+
+
+Cons
+-No return type 
+-Can only initialize values
+
+
+
+Static Factory Methods
+Pros
+- Able to return values which provides more capabilities 
+
+Cons
+- Cannot use outside methods
